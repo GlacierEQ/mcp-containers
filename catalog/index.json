@@ -270,12 +270,6 @@
     "repoUrl": "https://github.com/Bankless/onchain-mcp/"
   },
   {
-    "id": "onchain-mcp",
-    "owner": "Bankless",
-    "repo": "onchain-mcp",
-    "repoUrl": "https://github.com/Bankless/onchain-mcp/"
-  },
-  {
     "id": "my-bear-mcp-server",
     "owner": "bart6114",
     "repo": "my-bear-mcp-server",
@@ -1624,6 +1618,12 @@
     "owner": "ognis1205",
     "repo": "mcp-server-unitycatalog",
     "repoUrl": "https://github.com/ognis1205/mcp-server-unitycatalog"
+  },
+  {
+    "id": "olostep-mcp-server",
+    "owner": "olostep",
+    "repo": "olostep-mcp-server",
+    "repoUrl": "https://github.com/olostep/olostep-mcp-server"
   },
   {
     "id": "paper-search-mcp",
